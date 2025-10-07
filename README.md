@@ -25,3 +25,4 @@ capitalizeWords("hello world from javascript");
 capitalizeWords("javascript");
 // → "Javascript"
 ```
+
